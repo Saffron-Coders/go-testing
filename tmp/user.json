@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "first_name": "Dave",
+        "last_name": "Augustus",
+        "email": "dave@mail.com",
+        "created_at": "2021-07-17T00:33:14.475580499+05:30"
+    },
+    {
+        "id": 2,
+        "first_name": "Irak",
+        "last_name": "Rigia",
+        "email": "ir@mail.com",
+        "created_at": "2021-07-17T00:33:14.475580544+05:30"
+    },
+    {
+        "id": 3,
+        "first_name": "Imaginery",
+        "last_name": "User",
+        "email": "iu@gmail.com",
+        "created_at": "2021-07-17T00:33:14.475580591+05:30"
+    }
+]
